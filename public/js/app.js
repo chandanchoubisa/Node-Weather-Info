@@ -1,4 +1,4 @@
-console.log('Client side app is loaded')
+console.log('Client side application is loaded')
 
 //fetch api (client side)
 
